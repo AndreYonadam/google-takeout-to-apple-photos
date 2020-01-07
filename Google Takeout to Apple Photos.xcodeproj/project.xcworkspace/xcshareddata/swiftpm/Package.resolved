@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Checksum",
+        "repositoryURL": "https://github.com/rnine/Checksum.git",
+        "state": {
+          "branch": null,
+          "revision": "9dde3d1d898a5074608a1420791ef0a80c2399f2",
+          "version": "1.0.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
